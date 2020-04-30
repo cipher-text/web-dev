@@ -16,3 +16,17 @@ npm i -g create-react-app
 >now make some changes in vscode setting so that it can format code every time when you save 
 >go to   preferences->setting> ( or ctrl+,)
 >now search  ---     editor.formatonsave  mark it true
+### css
+
+![picture](https://content.linkedin.com/content/dam/me/learning/blog/2016/september/CSS.jpg)
+
+#### basic
+> css makes your page look good
+> css can be applied in three different ways
+1. inline    => 
+ex. ```<h1 style="background:red;padding:4px;">Heading</h1>```
+2. internal  => 
+ex. add inside the head tag  ```<style> h1{color:white;} </style>```
+3. external  => 
+ex. write css into different page and link it with html  add link in head section 
+```<link rel="stylesheet" href="path of file">```
