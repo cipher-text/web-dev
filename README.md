@@ -30,3 +30,17 @@ ex. add inside the head tag  ```<style> h1{color:white;} </style>```
 3. external  => 
 ex. write css into different page and link it with html  add link in head section 
 ```<link rel="stylesheet" href="path of file">```
+###### types of selector
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/selector-img1.png)
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/selector-img2.png)
+###### different types of combinator
+note:- here in picture only combined two selector but you can combine multiple
+ex-   ```div p a{
+      color:red;
+         }```
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/combinator-img1.png)
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/combinator-img2.png)
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/combinator-img3.png)
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/combinator-img4.png)
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/combinator-img5.png)
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/combinator-img6.png)
