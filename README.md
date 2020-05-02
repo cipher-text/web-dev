@@ -108,3 +108,9 @@ body{
 overflow:hidden;
 }
 ```
+###### position:sticky
+> it is the hybrid of position fixed and relative
+
+###### stacking context
+> each element have stacking context and element inside it can be stacked only relative to element inside it
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/Screenshot%20(467).png)
