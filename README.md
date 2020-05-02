@@ -44,3 +44,67 @@ ex-   ```div p a{
 ![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/combinator-img4.png)
 ![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/combinator-img5.png)
 ![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/combinator-img6.png)
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/specificity.png)
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/shorthand-prop.png)
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/margin-collapsing.png)
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/Screenshot%20(453).png)
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/Screenshot%20(458).png)
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/Screenshot%20(459).png)
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/Screenshot%20(460).png)
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/Screenshot%20(462).png)
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/Screenshot%20(465).png)
+###### position property
+> position property can be applied in different ways following are the ways
+1. ```position: static ```
+2. ```position: fixed  ```
+3. ```position: absolute ```
+4. ```position: relative ```
+5. ```position: sticky ```
+
+ ```
+ top 
+ left
+ right
+ bottom
+ ```
+ 
+ 
+>static : it is the default position of element where element follow the document flow
+>fixed : in case of fixed positioning the element taken out of document flow and it refer to the view port
+>absolute: in case of absolute the element is taken out of document flow and it refer to any parent where position property applied but >if there is no such parent then it refer to html
+>relative: in case of relative the document is not taken out of document flow and it refer to itself
+####### z-index
+>to position element along z axis  we can apply z-index property
+>note: z-index property can be applied only if element have position property applied
+```
+z-index: (+/-)
+```
+
+
+####### overflow:hidden
+>it hides the element if it get out of parent
+>note: if you apply ```overflow:hidden``` in body element it won't work because it will simply plass the ```overflow:hidded``` to the html element
+> so what you made
+```
+body{
+overflow:hidden;
+}
+```
+> but what will happen
+```
+html{
+overlow:hidden;
+}
+
+body{
+}
+```
+>to overcome this problem you should apply overflow property in both html and body
+```
+html{
+overflow:hidden;
+}
+body{
+overflow:hidden;
+}
+```
