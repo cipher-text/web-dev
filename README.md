@@ -44,3 +44,14 @@ ex-   ```div p a{
 ![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/combinator-img4.png)
 ![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/combinator-img5.png)
 ![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/combinator-img6.png)
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/specificity.png)
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/shorthand-prop.png)
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/margin-collapsing.png)
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/Screenshot%20(453).png)
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/Screenshot%20(458).png)
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/Screenshot%20(459).png)
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/Screenshot%20(460).png)
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/Screenshot%20(462).png)
+![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/Screenshot%20(465).png)
+###### position property
+
