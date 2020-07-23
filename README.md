@@ -114,3 +114,11 @@ overflow:hidden;
 ###### stacking context
 > each element have stacking context and element inside it can be stacked only relative to element inside it
 ![picture](https://github.com/cipher-text/web-dev/blob/master/readme-images/Screenshot%20(467).png)
+
+##### Variable in css
+> to use variable in css that helps to get rid of multiple changes if more than one palces have same value
+![picture](https://cdn-media-1.freecodecamp.org/images/XjRjOOsd5x9tj7-HtCx5CxhWQqfS-Ih9brdo)
+
+
+> notice that these variable are just for presentation purpuse they are not visible in document
+> property: (var(--variable-name, a, b, c);   // a, b, c are fallback values that will be considered in case of custom value not work
